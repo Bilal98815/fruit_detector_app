@@ -1,0 +1,5 @@
+0 Apple
+1 Banana
+2 Mango
+3 Grapes
+4 No fruit
